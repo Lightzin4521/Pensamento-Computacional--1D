@@ -3,7 +3,8 @@
 Nomes: João Pedro, Nicolas Vieira     N°:11, 47
 
 **A Máquina do Mundo**
-*(Carlos Drummond de Andrade)*
+
+(*Carlos Drummond de Andrade*)
 
 E como eu palmilhasse vagamente
 uma estrada de Minas, pedregosa,
